@@ -2,3 +2,5 @@
 /workspace.xml
 /venv
 /.idea
+/credentials.json
+/token_photoslibrary_v1.pickle
